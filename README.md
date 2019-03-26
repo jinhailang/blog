@@ -12,15 +12,16 @@
 
   - Golang
   - ngx_lua
-  - Python
-  - C#
+  - DevOps
+  - http/https
+  - Linux
 
 > Server Developer Keywords
 
   - 中间件
-  - Openresty
+  - OpenResty
+  - 七层安全防护（CC/WAF）
   - 缓存
-  - http/https
   - CDN
   - RESTful API
   - 爬虫

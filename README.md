@@ -9,18 +9,19 @@ code man
 > Software Engineer Keywords
 
   - Golang
+  - ngx_lua
   - Python
   - C#
-  - ngx_lua
 
 > Server Developer Keywords
-  
+
+  - 中间件
+  - Openresty
+  - 缓存
   - http/https
-  - RESTful API
-  - openresty
-  - 爬虫
   - CDN
-  - Linux
+  - RESTful API
+  - 爬虫
   
 #### 经历
 

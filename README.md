@@ -19,9 +19,9 @@
 > Server Developer Keywords
 
   - 中间件
-  - OpenResty
-  - 七层安全防护（CC/WAF）
-  - 缓存
+  - OpenResty(Nginx)
+  - Web安全 (CC/WAF)
+  - 缓存系统
   - CDN
   - RESTful API
   - 爬虫

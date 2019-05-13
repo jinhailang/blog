@@ -2,7 +2,7 @@
 
 知其然，知其所以然
 
-*我就是 CodeMan : )*
+<https://github.com/jinhailang/blog/issues>
 
 -------------
 
@@ -19,11 +19,11 @@
 > Server Developer Keywords
 
   - 中间件
-  - OpenResty(Nginx)
   - Web安全 (CC/WAF)
+  - 规则引擎
   - 缓存系统
   - CDN
-  - RESTful API
+  - Web Server
   - 爬虫
   
 #### 经历

@@ -12,9 +12,10 @@
 
   - Golang
   - ngx_lua
-  - DevOps
-  - http/https
   - Linux
+  - Network 
+  - DevOps
+  - Distributed
 
 > Server Developer Keywords
 
